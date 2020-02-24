@@ -1,0 +1,21 @@
+
+Traceback (most recent call last):
+  File "D:\Python_Demos\8_Various std Python libraries\2_sys_err_demo_2.py", line 5, in <module>
+    print nosuchvar   #error gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+
+Traceback (most recent call last):
+  File "D:\Python_Demos\8_Various std Python libraries\2_sys_err_demo_2.py", line 5, in <module>
+    print nosuchvar   #error gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "D:\Python_Demos\8_Various std Python libraries\2_sys_err_demo_2.py", line 3, in <module>
+    print nosuchvar   #error gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "C:\NovDemos\8_Various std Python libraries\2_sys_err_demo_2.py", line 3, in <module>
+    print nosuchvar   #error gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
